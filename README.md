@@ -22,7 +22,7 @@ Run Python projects on remote GPU servers directly from VS Code — upload files
 2. **Log in** — click the Login button and enter your credentials. Access is by invitation: the administrator who registered the GPU server sends you an invitation email — follow the link to create your account before signing in.
 3. **Select a GPU server** — the "GPU servers" dropdown lists available servers; selecting one auto-connects and shows server info
 4. **Upload & run** — load a project folder, configure a task, upload files, and click "Start Execution"
-5. **Learn more** — see the full documentation at [mtcodeai.com/remote-gpu.html](https://mtcodeai.com/remote-gpu.html)
+5. **Learn more** — see documentation at [mtcodeai.com/platform/remote-gpu.html](https://mtcodeai.com/platform/remote-gpu.html)
 
 ## The GPU Control Panel
 
