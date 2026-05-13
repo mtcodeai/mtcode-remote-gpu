@@ -2,11 +2,11 @@
 
 Run Python projects on remote GPU servers directly from VS Code — upload files, execute scripts, and download results, all from a sidebar panel in your editor.
 
-> **Get started at [mtcodeai.com](https://mtcodeai.com)** — download the MTCode GPU Server program to share your GPU, or create an account to access available GPU servers.
+> **Get started at [mtcodeai.com](https://mtcodeai.com/platform/gpu-server.html)** — download the MTCode GPU Server program to share your GPU resources without exposing your whole computer. Unlike conventional SSH login that gives access to the entire system, MTCode GPU Server runs each authorized user's Python scripts in a sandbox: file system access is restricted to designated directories and dangerous system operations are blocked, protecting your machine from malicious or accidental harm.
 
 ## Features
 
-- **Remote GPU Access** — connect to GPU servers shared through the MTCode Server Platform
+- **Remote GPU Access** — connect to GPU servers shared through the MTCode DirectLink Platform
 - **Project Upload & Sync** — smart upload with file change detection; only new or modified files are transferred
 - **Online Execution** — run scripts and stream output in real time to the VS Code OUTPUT console
 - **Offline Execution** — submit jobs that run independently on the server; disconnect and retrieve results later
