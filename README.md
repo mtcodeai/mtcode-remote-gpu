@@ -6,7 +6,7 @@ Run Python projects on remote GPU servers directly from VS Code — upload files
 
 ## Features
 
-- **Remote GPU Access** — connect to GPU servers shared through the MTCode DirectLink Platform
+- **Remote GPU Access** — connect to GPU servers shared through the [MTCode DirectLink Platform](https://mtcodeai.com/platform/index.html)
 - **Project Upload & Sync** — smart upload with file change detection; only new or modified files are transferred
 - **Online Execution** — run scripts and stream output in real time to the VS Code OUTPUT console
 - **Offline Execution** — submit jobs that run independently on the server; disconnect and retrieve results later
